@@ -1,4 +1,4 @@
-# _Music Store_
+# _Thriftwill Cassettes_
 
 #### By _Ewa Manek &amp; Elysia Nason_
 
@@ -18,9 +18,10 @@ _Angular 2 Music Store_
 
 ## Setup/Installation Requirements
 
-* _Copy the repository from GitHub_
-* _Run npm install_
-* _run bower install_
+* _Copy the repository from GitHub to your Desktop: `git clone https://github.com/ElysiaAvery/thriftwill-cassettes`_
+* _In your terminal navigate to thriftwill-cassettes: `cd thriftwill-cassettes`_
+* _run the command: `npm install`_
+* _run: `bower install`_
 * _run gulp serve to build the project for the first time and start the development server_
 
 ## GitHub link
